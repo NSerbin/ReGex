@@ -1,4 +1,4 @@
-#!/bin/bash env python
+#!/usr/bin/python3
 
 #RegEx Email function
 import re
